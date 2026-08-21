@@ -28,12 +28,6 @@ Strength: The project addresses a socially significant issue with technology; al
 
 ---
 
-## 🏢 About AI4All
-
-AI4All focuses on using artificial intelligence to foster inclusivity and fairness in technology applications across various sectors. Our organization works to educate and empower underrepresented groups in the tech industry, promoting the responsible development of AI.
-
----
-
 ## 🎯 The Challenge
 
 ### Project Summary
