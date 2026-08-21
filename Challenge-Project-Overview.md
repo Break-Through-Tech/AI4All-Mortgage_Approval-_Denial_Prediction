@@ -1,5 +1,3 @@
-
-
 ---
 
 ## 📋 BTT Internal Evaluation Notes
@@ -22,9 +20,15 @@ Strength: The project addresses a socially significant issue with technology; al
 
 # Mortgage Approval & Denial Prediction
 
-**Company / Org:** N/A - Independent Challenge Advisor  
+**Company / Org:** AI4All  
 **Challenge Advisor:** David Taiwo Balogun, balogundavid98@gmail.com  
 **Program:** Break Through Tech AI Studio - Fall 2026
+
+---
+
+## 🏢 About AI4All
+
+AI4All focuses on using artificial intelligence to foster inclusivity and fairness in technology applications across various sectors. Our organization works to educate and empower underrepresented groups in the tech industry, promoting the responsible development of AI.
 
 ---
 
@@ -53,9 +57,9 @@ Use these milestones to guide your work. Your team will create a **GitHub Projec
 ## 📊 Dataset
 
 **Name and Source:** Home Mortgage Disclosure Act (HMDA) public loan application data sourced from Kaggle  
-**Format:** CSV, TSV, or Excel  
+**Format:** CSV, 
 **Size:** under 1gb  
-**Location:** [Link to dataset or instructions for accessing it]
+**Location:** [https://www.kaggle.com/datasets/jboysen/ny-home-mortgage]
 
 ### Key Details
 - Home Mortgage Disclosure Act (HMDA) public loan application data, including applicant financial profiles, property details, and lender information, sourced from Kaggle. Data types include numerical, categorical, and time series in CSV/TSV or Excel formats.
@@ -69,7 +73,7 @@ Use these milestones to guide your work. Your team will create a **GitHub Projec
 **ML Problem Type:** Classification
 
 **Recommended Libraries:**
-- [e.g., pandas, scikit-learn, TensorFlow, Hugging Face]
+- [e.g., pandas,numpy,Matplotlib, Seaborn, scikit-learn, TensorFlow,]
 
 **Evaluation Metrics:**
 - Accuracy
@@ -83,19 +87,26 @@ Use these milestones to guide your work. Your team will create a **GitHub Projec
 The following resources will help your team understand the problem space and potential technical approaches for this project:
 
 **Background Reading:**
-- [e.g., Link to an article or blog post about the problem domain]
-- [e.g., Link to an industry report or case study]
+- [https://files.consumerfinance.gov/hmda-historic-data-dictionaries/lar_record_codes.pdf]
+- [https://www.researchgate.net/topic/Mortgage/publications/6]
 
 **Technical Tutorials:**
-- [e.g., Link to a free tutorial on the ML technique(s) involved]
-- [e.g., Link to documentation for a key library or tool]
+- [https://towardsdatascience.com/predict-loan-eligibility-using-machine-learning-models-7a14ef904057/]
+- [https://dzone.com/articles/llm-data-cleaning-transformation-pipelines]
+- [https://towardsdatascience.com/predict-loan-eligibility-using-machine-learning-models-7a14ef904057/]
+- [https://www.researchsquare.com/article/rs-8621356/v1]
+- [https://hackernoon.com/fine-tuning-vs-prompt-engineering]
+ 
 
 **Code Examples:**
-- [e.g., Link to a relevant GitHub repo]
-- [e.g., Link to a sample implementation or starter code]
+- [https://github.com/anupriya1519/House-Mortgage-Dataset-Analysis]
+- [https://github.com/fairlearn/fairlearn]
+- [https://github.com/BALOGUN-DAVID/Loan-Analysis-]
+- [https://github.com/BALOGUN-DAVID/Fraud-Detection-on-Bank-Payments]
+- [https://github.com/BALOGUN-DAVID/Credit-anallysis]
 
 **Other:**
-- [Links to any additional resources — e.g., papers, videos, podcasts, etc.]
+- [https://github.com/IBM/ensure-loan-fairness-aif360]
 
 *Feel free to explore beyond these, and share anything interesting you find with me!*
 
@@ -105,17 +116,22 @@ The following resources will help your team understand the problem space and pot
 
 **Official check-ins:** During our biweekly 45-minute AI Studio Lab Section meeting block (2nd and 4th week of every month)
 
- **Other ways to reach out to me with questions:** 
+
+**Other ways to reach out to me with questions:** 
 * [e.g., Your team's channel within Break Through Tech’s Discord space]
-* [e.g., Email; please copy your teammates and AI Studio Coach]
-* [e.g., Request a team check-in on Zoom]
-* [Note: I will aim to respond within 48 hours. Please reach out to your AI Studio Coach with urgent questions.]
+* [e.g.,Balogundavid98@gmail.com]
+* [e.g., zoom check in]
+* [I will aim to respond within 48 hours. Please reach out to your AI Studio Coach with urgent questions.]
 
-> 💡 **Challenge Advisor: Please update the above based on your availability and preference. If you are not able to answer questions or meet with fellows outside of the biweekly Lab Section check-ins, simply write in "N/A (only available during the official check-in times)"**
 
-**Recommended free coding / collaboration tools**
-* […]
-* […]
+free coding / collaboration tools**
+* [Google Colab — free Jupyter notebooks with dynamic access to NVIDIA T4 GPUs (roughly 15–30 hours/week, sessions capped around 12 hours). Fine for your logistic regression/decision tree/gradient boosting work — none of these need heavy GPU power, so the free tier is plenty. Easiest way for a team to share and co-edit a notebook without any local setup. ]
+  
+* [Kaggle Notebooks — free, ~30 hours/week of GPU (P100 or T4), and it sits right next to your dataset and the existing EDA notebooks I found earlier — you can fork one of those directly and start from it with zero setup.]
+  
+* GitHub — free for public and private repos, unlimited collaborators on the free plan. This is where your team should host the actual project repo (code, notebooks, README, final report).
+  
+* Visual Studio Code — completely free, open-source, cross-platform. For this project it gives you a much more capable local development environment than Jupyter alone: proper debugging, Git integration built in, and a huge extension ecosystem. Good fit once you move past pure notebook experimentation into building a cleaner, structured codebase (data cleaning scripts, model training pipeline, fairness audit modules) that your team will eventually put in the GitHub repo.
 
 ---
 
@@ -123,12 +139,6 @@ The following resources will help your team understand the problem space and pot
 
 1. **Review this overview document** and note any questions for our first meeting
 2. **Begin reviewing the dataset** using the link above
-3. **Read the GitHub Projects documentation** [here](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
+3. **Read the GitHub Projects documentation** [https://www.kaggle.com/datasets/jboysen/ny-home-mortgage]
 
 I’m excited to work with you!
-
----
-
-## ❓ Questions?
-
-Please bring any questions to our first meeting during the week of August 24th (Break Through Tech’s Bridge to Studio - Session C). 
