@@ -22,7 +22,7 @@ Strength: The project addresses a socially significant issue with technology; al
 
 # Mortgage Approval & Denial Prediction
 
-**Company / Org:** AI4All  
+**Company / Org:** Independent  
 **Challenge Advisor:** David Taiwo Balogun, balogundavid98@gmail.com  
 **Program:** Break Through Tech AI Studio - Fall 2026
 
