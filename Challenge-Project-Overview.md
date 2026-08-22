@@ -1,27 +1,8 @@
----
-
-## 📋 BTT Internal Evaluation Notes
-*(This section is for BTT staff only — remove before sharing with students)*
-
-| Check | Status | Notes |
-|-------|--------|-------|
-| Python Compatibility | 🟢 | The tech stack is centered on Python, with prominent libraries for machine learning and interpretability included (e.g., scikit-learn, SHAP, LIME). |
-| Data Readiness | 🟢 | The HMDA data is under 1GB, readily available in commonly used formats (CSV/TSV), and can be accessed easily for preprocessing without extensive cleaning requirements. |
-| Resource Check | 🟢 | The project uses free-tier tools (Google Colab), so there are no hardware constraints that would impede students' access or capabilities. |
-
-**Student Fit Score:** 9/10  
-**Technical Depth Score:** 8/10  
-**Overall Recommendation:** APPROVE
-
-**Advisor Feedback Draft:**
-Strength: The project addresses a socially significant issue with technology; aligning ethical AI with business needs is commendable. Technical Adjustments: 1. Optimize the choice of evaluation metrics by emphasizing those that assess both performance and fairness more rigorously. 2. Increase focus on interpretability methods to ensure model results are understandable to diverse stakeholders, not just technical audiences. Next Steps: Consider revising the project scope to involve more advanced feature engineering techniques to enhance model robustness.
-
----
-
 # Mortgage Approval & Denial Prediction
 
 **Company / Org:** AI4All  
-**Challenge Advisor:** David Taiwo Balogun, balogundavid98@gmail.com  
+**Challenge Advisor:** David Taiwo Balogun, balogundavid98@gmail.com
+**AI Studio Coach:**   
 **Program:** Break Through Tech AI Studio - Fall 2026
 
 ---
@@ -63,8 +44,6 @@ Use these milestones to guide your work. Your team will create a **GitHub Projec
 
 ### Key Details
 - Home Mortgage Disclosure Act (HMDA) public loan application data, including applicant financial profiles, property details, and lender information, sourced from Kaggle. Data types include numerical, categorical, and time series in CSV/TSV or Excel formats.
-- [Any known limitations or preprocessing needed]
-- [Link to data dictionary or documentation, if available]
 
 ---
 
@@ -73,7 +52,7 @@ Use these milestones to guide your work. Your team will create a **GitHub Projec
 **ML Problem Type:** Classification
 
 **Recommended Libraries:**
-- [e.g., pandas,numpy,Matplotlib, Seaborn, scikit-learn, TensorFlow,]
+- pandas,numpy,Matplotlib, Seaborn, scikit-learn, TensorFlow
 
 **Evaluation Metrics:**
 - Accuracy
@@ -118,16 +97,15 @@ The following resources will help your team understand the problem space and pot
 
 
 **Other ways to reach out to me with questions:** 
-* [e.g., Your team's channel within Break Through Tech’s Discord space]
-* [e.g.,Balogundavid98@gmail.com]
-* [e.g., zoom check in]
-* [I will aim to respond within 48 hours. Please reach out to your AI Studio Coach with urgent questions.]
+* Your team's channel within Break Through Tech’s Discord space
+* CA's email: Balogundavid98@gmail.com
+* I will aim to respond within 48 hours. Please reach out to your AI Studio Coach with urgent questions.
 
 
 free coding / collaboration tools**
-* [Google Colab — free Jupyter notebooks with dynamic access to NVIDIA T4 GPUs (roughly 15–30 hours/week, sessions capped around 12 hours). Fine for your logistic regression/decision tree/gradient boosting work — none of these need heavy GPU power, so the free tier is plenty. Easiest way for a team to share and co-edit a notebook without any local setup. ]
+* Google Colab — free Jupyter notebooks with dynamic access to NVIDIA T4 GPUs (roughly 15–30 hours/week, sessions capped around 12 hours). Fine for your logistic regression/decision tree/gradient boosting work — none of these need heavy GPU power, so the free tier is plenty. Easiest way for a team to share and co-edit a notebook without any local setup.
   
-* [Kaggle Notebooks — free, ~30 hours/week of GPU (P100 or T4), and it sits right next to your dataset and the existing EDA notebooks I found earlier — you can fork one of those directly and start from it with zero setup.]
+* Kaggle Notebooks — free, ~30 hours/week of GPU (P100 or T4), and it sits right next to your dataset and the existing EDA notebooks I found earlier — you can fork one of those directly and start from it with zero setup.
   
 * GitHub — free for public and private repos, unlimited collaborators on the free plan. This is where your team should host the actual project repo (code, notebooks, README, final report).
   
