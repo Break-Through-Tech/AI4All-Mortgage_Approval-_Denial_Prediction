@@ -2,7 +2,7 @@
 
 **Company / Org:** AI4All  
 **Challenge Advisor:** David Taiwo Balogun, balogundavid98@gmail.com
-**AI Studio Coach:**   
+**AI Studio Coach:** Hrushikesh Shetty, hrushikesh.shetty@breakthroughtech.org   
 **Program:** Break Through Tech AI Studio - Fall 2026
 
 ---
