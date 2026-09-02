@@ -117,6 +117,6 @@ free coding / collaboration tools**
 
 1. **Review this overview document** and note any questions for our first meeting
 2. **Begin reviewing the dataset** using the link above
-3. **Read the GitHub Projects documentation** [https://www.kaggle.com/datasets/jboysen/ny-home-mortgage]
+3. **Read the GitHub Projects documentation** [here](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
 
 I’m excited to work with you!
